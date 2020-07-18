@@ -1,3 +1,8 @@
 body{
     background-color: orange;
 }
+footer{
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+}
