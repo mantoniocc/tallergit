@@ -1,8 +1,13 @@
 body{
     background-color: orange;
 }
+
+#rrss{
+    background-color: green;
+}
 footer{
     background-color: darkblue;
     text-align: center;
     color: white;
 }
+
